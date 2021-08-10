@@ -1,6 +1,7 @@
 ### Hi there! My name is Bogdan👋
 
-I'm a Web Developer (and in nearest future UI/UX Designer) who loves making high-quality websites and applications. I'm still a student and I think we study all life long🤣 I also love Physics, Astrophysics, Spacetrips and I want to know more about how the Universe works.
+I'm a Web Developer (and in nearest future UI/UX Designer) who loves making high-quality websites and applications. I'm still a student and I think we study all life long🤣 
+I also love Physics, Astrophysics, Spacetrips and I want to know more about how the Universe works.
 I'm really believe that we (as humanity) will take off the 🌎 and landed at Mars till 2030🚀 (not all humanity of course, just a successfully mission will be completed by 👨‍🚀👩‍🚀)
 
 📫 How to reach me:
